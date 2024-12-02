@@ -22,5 +22,6 @@ Since $f$ is a bijection that preserves adjacency relationships, and $G_1$ and $
 
 For this I looked through the lecture slides. I googled isomorphsim. I found these two websites to explain it a little better to me. I then watched this youtube to understand better. https://www.geeksforgeeks.org/complete-graph-in-graph-theory/ and https://youtu.be/EwV4Puk2coU?si=SFN5GU8fVPQUPlQx Finally I found a written paper that helped with the formal part. https://courses.grainger.illinois.edu/cs173/sp2010/Lectures/lect_32.pdf 
 
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
 
 
