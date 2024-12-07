@@ -22,6 +22,8 @@ To define $f$, we map each vertex in $V_1$ to a unique vertex in $V_2$. If the v
 
 $f$ is a bijection because it is one-to-one (no two vertices in $V_1$ map to the same vertex in $V_2$) and onto (every vertex in $V_2$ is the image of some vertex in $V_1$).
 
+If it fails to have the properties then it does not fit the idea that we are proving.  
+
 
 ## Sources 
 
